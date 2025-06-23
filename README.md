@@ -184,16 +184,6 @@ python manage.py migrate
 ### **Environment Variables**
 All configuration is handled through environment variables. See `config/environment.example` for full documentation.
 
-## 🚢 Deployment
-
-### **Production Deployment**
-See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) for comprehensive deployment guides including:
-- Docker containerization
-- AWS/Heroku deployment
-- Database configuration
-- SSL and security setup
-- Monitoring and logging
-
 ### **Slack App Configuration**
 1. Set your **Request URL** to: `https://your-domain.com/slack/commands/ultra/`
 2. Enable **slash commands** with `/summary`
