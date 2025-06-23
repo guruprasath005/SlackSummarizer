@@ -23,22 +23,22 @@ A professional, enterprise-grade Slack bot that provides AI-powered conversation
 
 ### 🎨 **Professional Output**
 ```
-📊 **Summary Report for #channel**
+📊 Summary Report for #channel
 
-**📋 Key Topics Discussed:**
+📋 Key Topics Discussed:
 🔹 Production system stability and performance issues
 🔹 Team coordination and incident response protocols
 
-**⚡ Important Decisions & Actions:**
+⚡ Important Decisions & Actions:
 🔹 Immediate hotfix deployment scheduled
 🔹 Cluster restart approved for memory leak resolution
 
-**👥 Most Active Contributors:**
+👥 Most Active Contributors:
 🔹 @TeamLead: Led incident response and technical analysis
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📈 **Report Details:** 15 messages analyzed | Last 24 hours
-🤖 **AI Analysis:** Generated on 2025-06-23 10:30
+📈 Report Details: 15 messages analyzed | Last 24 hours
+🤖 AI Analysis: Generated on 2025-06-23 10:30
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
